@@ -1,0 +1,18 @@
+﻿@model IEnumerable<StringReverse.Models.StringReversionModel>
+
+@{
+    ViewData["Title"] = "ShowInputPanel";
+}
+<div class="flexParent">
+    <h1>Write your string.</h1>
+
+    <form asp-action="Reverse" class="flexParent">
+        <div class="form-group" class="flexParent">
+            <label for="stringToReverse">Your string:</label>
+            <input type="text" name="stringToReverse" />
+        </div>
+        <div class="form-group" class="flexParent">
+            <button type="submit">Reverse</button>
+        </div>
+    </form>
+</div>

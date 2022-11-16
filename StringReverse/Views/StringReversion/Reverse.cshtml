@@ -1,0 +1,10 @@
+﻿@model IEnumerable<StringReverse.Models.StringReversionModel>
+
+ @{
+    ViewData["Title"] = "Reverse";
+  }
+<div class="flexParent">
+    <h1>Your reversion:</h1>
+    <h2>@ViewBag.OldString -> @ViewBag.ReversedString</h2>
+    <button><a asp-action="Index">Return</a></button>
+</div>

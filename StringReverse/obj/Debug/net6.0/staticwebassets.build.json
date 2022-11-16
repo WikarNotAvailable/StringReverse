@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jaH40GnTcio0o79W8sK5DbCx7zT1O3P041VnfXlr1Ts=",
+  "Hash": "Fne3kP8LUttoXDODUTeU+aXm90vFHgHjMQzWiJ4o1Rk=",
   "Source": "StringReverse",
   "BasePath": "_content/StringReverse",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\wikar\\OneDrive\\Pulpit\\PROGRAMOWANIE\\StringReverse\\StringReverse\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StringReverse.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\wikar\\OneDrive\\Pulpit\\PROGRAMOWANIE\\StringReverse\\StringReverse\\wwwroot\\css\\myStyles.css",
+      "SourceId": "StringReverse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wikar\\OneDrive\\Pulpit\\PROGRAMOWANIE\\StringReverse\\StringReverse\\wwwroot\\",
+      "BasePath": "_content/StringReverse",
+      "RelativePath": "css/myStyles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\myStyles.css"
     },
     {
       "Identity": "C:\\Users\\wikar\\OneDrive\\Pulpit\\PROGRAMOWANIE\\StringReverse\\StringReverse\\wwwroot\\css\\site.css",
